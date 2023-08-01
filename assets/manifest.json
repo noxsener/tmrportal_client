@@ -1,0 +1,65 @@
+{
+  "name": "TMR Portal",
+  "short_name": "Tmr Portal",
+  "theme_color": "#546e7a",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "ikonlar/logo_48x48.webp",
+      "sizes": "48x48",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_72x72.webp",
+      "sizes": "72x72",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_96x96.webp",
+      "sizes": "96x96",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_128x128.webp",
+      "sizes": "128x128",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_144x144.webp",
+      "sizes": "144x144",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_152x152.webp",
+      "sizes": "152x152",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_192x192.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_384x384.webp",
+      "sizes": "384x384",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "ikonlar/logo_512x512.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable any"
+    }
+  ]
+}

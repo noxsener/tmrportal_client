@@ -1,0 +1,1 @@
+var app={initialize:function(){document.addEventListener("deviceready",this.onDeviceReady.bind(this),!1)},onDeviceReady:function(){this.receivedEvent("deviceready"),deviceready()},receivedEvent:function(e){console.log("Received Event: "+e)}};app.initialize();
