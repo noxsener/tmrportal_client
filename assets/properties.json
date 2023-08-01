@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://app.codenfast.com.tr:8444",
+  "baseUrl": "https://app.codenfast.com:8444",
   "applicationUrl": "https://portal.tmreglence.com.tr",
   "eimzaUrl": null,
   "applicationBackground": "background-image: linear-gradient(to right, #051937, #4f2552, #93304d, #ba592f, #b39506);",
